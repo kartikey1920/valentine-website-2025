@@ -14,8 +14,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💕','🎀','💌','💓'],  // Heart emojis
-        bears: ['🫰🏻', '🫶🏻','🌷','🫧','💭']                       // Cute bear emojis
+        hearts: ['❤️','🤍','💜','💙','💚','💛'],  // Heart emojis
+        bears: ['🫰🏻', '🫶🏻','🌷','💌','💭']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you be my Valentine? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -50,8 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Spamming my love to you",
-        message: "Dinner date at Tomatoes is fixed then!😋😘",
-        emojis: "❤️💛💚💙💜🤍"  // These will bounce around
+        message: "Dinner date is fixed then!😋😘",
     },
 
     // Color scheme for the website
@@ -78,7 +77,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dhqjtyj7t/video/upload/v1770443034/kaazoom-be-my-valentine-valentinex27s-day-song-male-vocal-461604_cukxps.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dhqjtyj7t/video/upload/v1770449823/Chaand_Ne_Kaho-320kbps-_AudioTrimmer.com_csf1wb.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
