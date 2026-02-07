@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "404: 'Like' not found. Status: Obsessed 🧶"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "MY HEART IS GOING DOKI-DOKI OVERLOAD!!! (≧◡≦) 💓",  // Shows when they go past 5000%
+        high: "AWWW I WUVV YOUU TOO ❤️♡(˃ ᵕ ˂)♡❤️",              // Shows when they go past 1000%
+        normal: "I know you could do more babe 🤗"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Spamming my love to you",
+        message: "Dinner date at Tomatoes is fixed then!😋😘",
+        emojis: "❤️💛💚💙💜🤍"  // These will bounce around
     },
 
     // Color scheme for the website
